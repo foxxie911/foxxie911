@@ -4,7 +4,7 @@ I am a last year CS student. I am learning both Product Management and Software 
 
 * 🌍  I'm based in Narayanganj, Dhaka, Bangladesh 🇧🇩
 * ✉️  You can contact me at [foxxie911.dev@proton.me](mailto:foxxie911.dev@proton.me)
-* 🧠  I'm learning Data Science and Market Research
+* 🧠  I'm learning Product Management and System Architecture
 * 🤝  I'm open to collaborating on intresting business ideas
 * ⚡  I'm Optimus Prime in Human Form........"Autobots, Lets roll!"
 
